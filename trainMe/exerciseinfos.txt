@@ -1,0 +1,1010 @@
+34 Sit Up, abdominals, beginner,8.7, body-only 
+Ab Crunch Machine, abdominals, intermediate,8.1, machine 
+Ab Roller, abdominals, intermediate,9.0, other 
+Advanced Kettlebell Windmill, abdominals, intermediate,8.5, kettlebells 
+Air Bike, abdominals, beginner,8.8, body-only 
+Alternate Heel Touchers, abdominals, beginner,8.1, body-only 
+Barbell Ab Rollout, abdominals, intermediate,9.1, barbell 
+Barbell Ab Rollout On Knees, abdominals, expert,8.7, barbell 
+Barbell Rollout from Bench, abdominals, intermediate,8.1, barbell 
+Barbell Side Bend, abdominals, beginner,7.0, barbell 
+Bent Press, abdominals, expert,6.3, kettlebells 
+Bent Knee Hip Raise, abdominals, beginner,8.0, body-only 
+Bosu Ball Cable Crunch With Side Bends, abdominals, beginner,8.6, cable 
+Bosu Ball Crunch, abdominals, beginner,0, exercise-ball 
+Bottoms Up, abdominals, beginner,9.3, body-only 
+Butt Ups, abdominals, beginner,8.3, body-only 
+Cable Crunch, abdominals, beginner,8.8, cable 
+Cable Judo Flip, abdominals, beginner,5.0, cable 
+Cable Reverse Crunch, abdominals, beginner,8.2, cable 
+Cable Russian Twists, abdominals, beginner,8.1, cable 
+Cable Seated Crunch, abdominals, beginner,7.6, cable 
+Cable Tuck Reverse Crunch, abdominals, beginner,0, - 
+Cocoons, abdominals, beginner,9.0, body-only 
+Cross Crunch, abdominals, beginner,0, body-only 
+Cross Body Crunch, abdominals, beginner,9.1, body-only 
+Crunch Hands Overhead, abdominals, beginner,8.5, body-only 
+Crunch Legs On Exercise Ball, abdominals, beginner,7.3, body-only 
+Crunches, abdominals, beginner,8.6, body-only 
+Dead Bug, abdominals, beginner,8.6, body-only 
+Decline Crunch, abdominals, intermediate,9.0, body-only 
+Decline Oblique Crunch, abdominals, beginner,8.4, body-only 
+Decline Reverse Crunch, abdominals, beginner,9.1, body-only 
+Double Kettlebell Windmill, abdominals, intermediate,3.0, kettlebells 
+Dumbbell Side Bend, abdominals, beginner,8.6, dumbbell 
+Elbow to Knee, abdominals, beginner,9.1, body-only 
+Exercise Ball Crunch, abdominals, beginner,8.3, exercise-ball 
+Exercise Ball Pull In, abdominals, beginner,8.8, exercise-ball 
+Flat Bench Leg Pull In, abdominals, beginner,7.7, body-only 
+Flat Bench Lying Leg Raise, abdominals, beginner,8.5, body-only 
+Frog Sit Ups, abdominals, intermediate,7.7, body-only 
+Gorilla ChinCrunch, abdominals, intermediate,9.0, body-only 
+Hanging Leg Raise, abdominals, expert,9.0, body-only 
+Hanging Oblique Knee Raise, abdominals, expert,9.0, body-only 
+Hanging Pike, abdominals, expert,9.1, body-only 
+Hanging Pike, abdominals, expert,9.1, body-only 
+Jackknife Sit Up, abdominals, beginner,8.4, body-only 
+Janda Sit Up, abdominals, beginner,7.4, body-only 
+Kettlebell Figure 8, abdominals, intermediate,7.7, kettlebells 
+Kettlebell Pass Between The Legs, abdominals, intermediate,6.8, kettlebells 
+Kettlebell Windmill, abdominals, intermediate,7.0, kettlebells 
+KneeHip Raise On Parallel Bars, abdominals, beginner,8.5, other 
+Kneeling Cable Crunch With Alternating Oblique Twists, abdominals, beginner,8.8, cable 
+Landmine 180's, abdominals, beginner,8.8, cable 
+Leg Pull In, abdominals, beginner,7.4, body-only 
+Lower Back Curl, abdominals, beginner,6.5, body-only 
+Medicine Ball Full Twist, abdominals, beginner,0, medicine-ball 
+Medicine Ball Rotational Throw, abdominals, beginner,0, medicine-ball 
+Oblique Cable Crunch, abdominals, intermediate,9.0, cable 
+Oblique Crunches, abdominals, beginner,8.4, body-only 
+Oblique Crunches On The Floor, abdominals, beginner,7.7, body-only 
+One Arm High Pulley Cable Side Bends , abdominals, - 
+One Arm Medicine Ball Slam, abdominals, beginner,0, medicine-ball 
+Otis Up, abdominals, beginner,8.6, other 
+Overhead Stretch, abdominals, beginner,3.9, none 
+Pallof Press, abdominals, beginner,8.4, cable 
+Pallof Press With Rotation, abdominals, beginner,8.4, cable 
+Partner 3 Touch Motion Russian Twist, abdominals, beginner,0, medicine-ball 
+Partner Facing Planks With Alternating High Five, abdominals, beginner,0, body-only 
+Partner Hanging Knee Raise With Manual Resistance, abdominals, intermediate,0, body-only 
+Partner Hanging Knee Raise With Throw Down, abdominals, intermediate,0, body-only 
+Partner Lying Leg Raise With Lateral Throw Down, abdominals, beginner,0, body-only 
+Partner Lying Leg Raise With Throw Down, abdominals, beginner,0, body-only 
+Partner Resistance Standing Twist, abdominals, beginner,0, - 
+Partner Side To Side Russian Twist  Pass, abdominals, beginner,0, medicine-ball 
+Partner Sit Up With High Five, abdominals, beginner,0, body-only 
+Partner Target Sit Up, abdominals, beginner,0, body-only 
+Plank, abdominals, beginner,9.2, body-only 
+Plate Twist, abdominals, intermediate,9.0, other 
+Press Sit Up, abdominals, expert,8.5, barbell 
+Reverse Crunch, abdominals, beginner,8.8, body-only 
+Rope Crunch, abdominals, beginner,8.5, cable 
+Russian Twist, abdominals, intermediate,8.7, body-only 
+Scissor Kick, abdominals, beginner,7.3, body-only 
+Seated Barbell Twist, abdominals, beginner,4.8, barbell 
+Seated Flat Bench Leg Pull In, abdominals, beginner,8.4, body-only 
+Seated Leg Tucks, abdominals, beginner,7.0, body-only 
+Seated Overhead Stretch, abdominals, beginner,4.7, none 
+Seated Scissor Kick, abdominals, intermediate,0, body-only 
+Side Bridge, abdominals, beginner,7.5, body-only 
+Side Jackknife, abdominals, beginner,7.3, body-only 
+Sit Up, abdominals, beginner,8.0, body-only 
+Sledgehammer Swings, abdominals, beginner,8.6, other 
+Smith Machine Hip Raise, abdominals, beginner,8.0, machine 
+Spell Caster, abdominals, beginner,9.2, dumbbell 
+Spider Crawl, abdominals, beginner,9.3, body-only 
+Standing Cable Lift, abdominals, beginner,9.2, cable 
+Standing Cable Wood Chop, abdominals, beginner,8.2, cable 
+Standing Lateral Stretch, abdominals, beginner,3.2, none 
+Standing Rope Crunch, abdominals, beginner,8.6, cable 
+Stomach Vacuum, abdominals, beginner,8.6, body-only 
+Straight Legged Hip Raise, abdominals, beginner,0, body-only 
+Suitcase Crunch, abdominals, beginner,0, body-only 
+Supine One Arm Overhead Throw, abdominals, beginner,0, medicine-ball 
+Supine Two Arm Overhead Throw, abdominals, beginner,4.9, medicine-ball 
+Suspended Crunch, abdominals, intermediate,0, body-only 
+Suspended Fallout, abdominals, intermediate,0, other 
+Suspended Pike, abdominals, intermediate,0, - 
+Suspended Reverse Crunch, abdominals, beginner,7.7, other 
+Toe Touchers, abdominals, beginner,6.9, body-only 
+Torso Rotation, abdominals, beginner,5.0, exercise-ball 
+Tuck Crunch, abdominals, beginner,8.4, body-only 
+Waiter's Carry, abdominals, beginner,8.4, body-only 
+Weighted Ball Side Bend, abdominals, intermediate,6.4, exercise-ball 
+Weighted Crunches, abdominals, beginner,9.0, medicine-ball 
+Weighted Sit Ups With Bands, abdominals, intermediate,8.0, other 
+Weighted Suitcase Crunch, abdominals, intermediate,9.4, medicine-ball 
+Wind Sprints, abdominals, beginner,8.0, body-only 
+Clam, abductors, beginner,0, body-only 
+Fire Hydrant, abductors, beginner,0, body-only 
+Hip Circle, abductors, beginner,0, body-only 
+Hip Circles (prone), abductors, beginner,0, body-only 
+Iliotibial Tract SMR, abductors, intermediate,9.6, foam-roll 
+IT Band and Glute Stretch, abductors, intermediate,2.4, other 
+Lateral Band Walk, abductors, beginner,0, bands 
+Lying Crossover, abductors, expert,1.6, body-only 
+Monster Walk, abductors, beginner,6.7, bands 
+Standing Hip Circles, abductors, beginner,9.5, body-only 
+Thigh Abductor, abductors, beginner,8.1, machine 
+Windmills, abductors, intermediate,8.4, none 
+Adductor, adductors, intermediate,4.0, foam-roll 
+AdductorGroin , adductors, - 
+Band Hip Adductions, adductors, beginner,8.6, bands 
+Carioca Quick Step, adductors, beginner,0, none 
+Groin and Back Stretch, adductors, intermediate,7.1, none 
+Groiners , adductors, - 
+Lateral Bound , adductors, - 
+Lateral Box Jump, adductors, beginner,0, other 
+Lateral Cone Hops, adductors, beginner,0, other 
+Lying Bent Leg Groin, adductors, expert,2.8, other 
+Side Leg Raises, adductors, beginner,7.7, body-only 
+Side Lying Groin Stretch, adductors, beginner,3.8, none 
+Thigh Adductor, adductors, beginner,8.9, machine 
+Alternate Hammer Curl, biceps, beginner,8.6, dumbbell 
+Alternate Incline Dumbbell Curl, biceps, beginner,8.6, dumbbell 
+Barbell Curl, biceps, beginner,9.0, barbell 
+Barbell Curls Lying Against An Incline, biceps, beginner,8.8, barbell 
+Biceps Curl To Shoulder Press, biceps, intermediate,0, dumbbell 
+Brachialis SMR, biceps, intermediate,3.0, foam-roll 
+Cable Hammer Curls Rope Attachment, biceps, beginner,8.3, cable 
+Cable Preacher Curl, biceps, beginner,7.4, cable 
+Close Grip EZ Bar Curl, biceps, beginner,8.9, barbell 
+Close Grip EZ Bar Curl with Band, biceps, beginner,7.8, e-z-curl-bar 
+Close Grip Standing Barbell Curl, biceps, beginner,8.5, barbell 
+Concentration Curls, biceps, beginner,9.0, dumbbell 
+Cross Body Hammer Curl, biceps, beginner,8.9, dumbbell 
+Drag Curl, biceps, intermediate,8.4, barbell 
+Dumbbell Alternate Bicep Curl, biceps, beginner,8.7, dumbbell 
+Dumbbell Bicep Curl, biceps, beginner,8.9, dumbbell 
+Dumbbell Prone Incline Curl, biceps, intermediate,7.6, dumbbell 
+EZ Bar Curl, biceps, beginner,9.1, e-z-curl-bar 
+Flexor Incline Dumbbell Curls, biceps, beginner,9.0, dumbbell 
+Hammer Curls, biceps, beginner,9.1, dumbbell 
+High Cable Curls, biceps, intermediate,7.9, cable 
+Incline Dumbbell Curl, biceps, beginner,8.7, dumbbell 
+Incline Hammer Curls, biceps, beginner,9.5, dumbbell 
+Incline Inner Biceps Curl, biceps, beginner,7.7, dumbbell 
+Lying Cable Curl, biceps, intermediate,8.1, cable 
+Lying Close Grip Bar Curl On High Pulley, biceps, beginner,7.1, cable 
+Lying High Bench Barbell Curl, biceps, intermediate,5.8, barbell 
+Lying Supine Dumbbell Curl, biceps, beginner,8.3, dumbbell 
+Machine Bicep Curl, biceps, beginner,9.0, machine 
+Machine Preacher Curls, biceps, beginner,8.5, machine 
+One Arm Dumbbell Preacher Curl, biceps, beginner,8.7, dumbbell 
+Overhead Cable Curl, biceps, intermediate,9.0, cable 
+Preacher Curl, biceps, beginner,8.8, barbell 
+Preacher Hammer Dumbbell Curl, biceps, beginner,8.6, dumbbell 
+Reverse Barbell Curl, biceps, beginner,8.3, barbell 
+Reverse Barbell Preacher Curls, biceps, intermediate,8.8, e-z-curl-bar 
+Reverse Cable Curl, biceps, beginner,8.6, cable 
+Reverse Plate Curls, biceps, beginner,7.2, other 
+Seated Biceps, biceps, expert,4.7, body-only 
+Seated Close Grip Concentration Barbell Curl, biceps, intermediate,8.8, barbell 
+Seated Dumbbell Curl, biceps, beginner,8.7, dumbbell 
+Seated Dumbbell Inner Biceps Curl, biceps, beginner,7.6, dumbbell 
+Spider Curl, biceps, beginner,9.2, e-z-curl-bar 
+Standing Biceps Cable Curl, biceps, beginner,8.4, cable 
+Standing Biceps Stretch, biceps, beginner,7.0, other 
+Standing Concentration Curl, biceps, beginner,8.7, dumbbell 
+Standing Dumbbell Reverse Curl, biceps, intermediate,7.8, dumbbell 
+Standing Inner Biceps Curl, biceps, intermediate,7.4, dumbbell 
+Standing One Arm Cable Curl, biceps, intermediate,8.8, cable 
+Standing One Arm Dumbbell Curl Over Incline Bench, biceps, beginner,8.7, dumbbell 
+Suspended Curl, biceps, intermediate,0, other 
+Two Arm Dumbbell Preacher Curl, biceps, beginner,8.3, dumbbell 
+Wide Grip Standing Barbell Curl, biceps, beginner,9.2, barbell 
+Zottman Curl, biceps, intermediate,9.1, dumbbell 
+Zottman Preacher Curl, biceps, intermediate,7.5, dumbbell 
+Ankle Circles, calves, beginner,7.4, none 
+Anterior Tibialis SMR, calves, intermediate,5.3, other 
+Balance Board, calves, beginner,7.5, other 
+Barbell Seated Calf Raise, calves, beginner,7.8, barbell 
+Calf Press, calves, beginner,8.6, machine 
+Calf Press On The Leg Press Machine, calves, beginner,8.6, machine 
+Calf Raise On A Dumbbell, calves, intermediate,4.6, dumbbell 
+Calf Raises With Bands, calves, beginner,4.7, bands 
+Calf Stretch Elbows Against Wall, calves, beginner,4.9, none 
+Calf Stretch Hands Against Wall, calves, beginner,5.3, none 
+Calves SMR, calves, intermediate,6.1, foam-roll 
+Donkey Calf Raises, calves, intermediate,7.5, other 
+Dumbbell Seated One Leg Calf Raise, calves, beginner,7.1, dumbbell 
+Foot SMR, calves, intermediate,2.7, other 
+Knee Circles, calves, beginner,6.3, body-only 
+Peroneals Stretch, calves, intermediate,3.3, other 
+Peroneals SMR, calves, intermediate,7.0, foam-roll 
+Posterior Tibialis Stretch, calves, intermediate,1.0, other 
+Rocking Standing Calf Raise, calves, beginner,8.7, barbell 
+Seated Calf Raise, calves, beginner,8.8, machine 
+Seated Calf Stretch, calves, beginner,4.1, none 
+Smith Machine Calf Raise, calves, beginner,9.3, machine 
+Smith Machine Reverse Calf Raises, calves, beginner,7.3, machine 
+Standing Barbell Calf Raise, calves, beginner,8.4, barbell 
+Standing Calf Raises, calves, beginner,9.0, machine 
+Standing Dumbbell Calf Raise, calves, intermediate,8.9, dumbbell 
+Standing Gastrocnemius Calf Stretch, calves, beginner,5.6, none 
+Standing Soleus And Achilles Stretch, calves, beginner,4.2, none 
+Alternating Floor Press, chest, beginner,6.0, kettlebells 
+Around The Worlds, chest, intermediate,7.7, dumbbell 
+Barbell Bench Press Medium Grip, chest, beginner,9.1, barbell 
+Barbell Bench Press Wide Grip, chest, beginner,6.8, barbell 
+Barbell Guillotine Bench Press, chest, intermediate,6.9, barbell 
+Barbell Incline Bench Press Medium Grip, chest, beginner,8.8, barbell 
+Behind Head Chest Stretch, chest, expert,4.8, other 
+Bench Press With Bands, chest, beginner,5.5, bands 
+Bench Press With Short Bands, chest, intermediate,0, bands 
+Bent Arm Dumbbell Pullover, chest, intermediate,8.2, dumbbell 
+Bodyweight Flyes, chest, intermediate,9.0, e-z-curl-bar 
+Bosu Ball Push Up, chest, intermediate,0, exercise-ball 
+Butterfly, chest, beginner,8.5, machine 
+Cable Chest Press, chest, beginner,8.7, cable 
+Cable Crossover, chest, beginner,8.8, cable 
+Cable Iron Cross, chest, beginner,8.5, cable 
+Chain Press, chest, intermediate,5.6, other 
+Chest And Front Of Shoulder Stretch, chest, beginner,3.0, other 
+Chest Push (multiple response), chest, beginner,3.0, other 
+Chest Push (single response), chest, beginner,3.0, other 
+Chest Push from 3 point stance, chest, beginner,0, medicine-ball 
+Chest Push with Run Release, chest, beginner,0, medicine-ball 
+Chest Stretch on Stability Ball, chest, beginner,3.6, exercise-ball 
+Clock Push Up, chest, intermediate,8.7, body-only 
+Cross Over With Bands, chest, beginner,8.3, bands 
+Decline Barbell Bench Press, chest, beginner,8.8, barbell 
+Decline Dumbbell Bench Press, chest, beginner,8.4, dumbbell 
+Decline Dumbbell Flyes, chest, beginner,9.0, dumbbell 
+Decline Push Up, chest, beginner,8.8, none 
+Decline Smith Press, chest, beginner,8.4, machine 
+Dips Chest Version, chest, intermediate,9.0, other 
+Drop Push, chest, intermediate,8.8, other 
+Dumbbell Bench Press, chest, beginner,9.2, dumbbell 
+Dumbbell Bench Press with Neutral Grip, chest, beginner,9.0, dumbbell 
+Dumbbell Flyes, chest, beginner,9.0, dumbbell 
+Dynamic Chest Stretch, chest, beginner,5.6, none 
+Elbows Back, chest, beginner,4.8, none 
+Extended Range One Arm Kettlebell Floor Press, chest, beginner,6.3, kettlebells 
+Flat Bench Cable Flyes, chest, intermediate,7.4, cable 
+Forward Drag with Press, chest, intermediate,6.0, other 
+Front Raise And Pullover, chest, beginner,8.3, barbell 
+Hammer Grip Incline DB Bench Press, chest, beginner,8.5, dumbbell 
+Hand Release Push Up, chest, beginner,0, body-only 
+Heavy Bag Thrust, chest, beginner,0, other 
+Incline Cable Chest Press, chest, beginner,8.7, cable 
+Incline Cable Flye, chest, intermediate,8.9, cable 
+Incline Dumbbell Bench With Palms Facing In, chest, beginner,8.4, dumbbell 
+Incline Dumbbell Flyes, chest, beginner,8.9, dumbbell 
+Incline Dumbbell Flyes With A Twist, chest, beginner,8.3, dumbbell 
+Incline Dumbbell Press, chest, beginner,9.2, dumbbell 
+Incline Dumbbell Press Reverse Grip, chest, intermediate,0, dumbbell 
+Incline Push Up, chest, beginner,8.8, body-only 
+Incline Push Up Depth Jump, chest, beginner,8.3, other 
+Incline Push Up Medium, chest, beginner,8.7, body-only 
+Incline Push Up Reverse Grip, chest, beginner,0, body-only 
+Incline Push Up Wide, chest, beginner,9.0, body-only 
+Isometric Chest Squeezes, chest, beginner,7.1, body-only 
+Isometric Wipers, chest, beginner,8.3, body-only 
+Leg Over Floor Press, chest, intermediate,0, kettlebells 
+Leverage Chest Press, chest, beginner,8.8, machine 
+Leverage Decline Chest Press, chest, beginner,8.1, machine 
+Leverage Incline Chest Press, chest, beginner,8.6, machine 
+Low Cable Crossover, chest, beginner,9.1, cable 
+Machine Bench Press, chest, beginner,8.3, machine 
+Medicine Ball Chest Pass, chest, beginner,6.0, medicine-ball 
+Medicine Ball Push Up, chest, intermediate,0, medicine-ball 
+Neck Press, chest, intermediate,8.8, barbell 
+One Arm Dumbbell Bench Press, chest, beginner,8.5, dumbbell 
+One Arm Flat Bench Dumbbell Flye, chest, beginner,6.5, dumbbell 
+One Arm Kettlebell Floor Press, chest, intermediate,0, kettlebells 
+Plyo Kettlebell Pushups, chest, expert,7.9, kettlebells 
+Plyo Push up, chest, beginner,7.3, body-only 
+Push Up to Side Plank, chest, beginner,7.1, body-only 
+Push Up Wide, chest, beginner,8.4, body-only 
+Push Ups With Feet Elevated, chest, beginner,8.5, body-only 
+Push Ups With Feet On An Exercise Ball, chest, intermediate,8.5, exercise-ball 
+Pushups, chest, beginner,9.2, body-only 
+Pushups (Close and Wide Hand Positions), chest, beginner,9.2, body-only 
+Side To Side Push Up, chest, intermediate,6.7, body-only 
+Single Arm Cable Crossover, chest, beginner,8.6, cable 
+Single Arm Push Up, chest, intermediate,8.6, body-only 
+Smith Machine Bench Press, chest, beginner,8.3, machine 
+Smith Machine Decline Press, chest, beginner,7.3, machine 
+Smith Machine Incline Bench Press, chest, beginner,8.0, machine 
+Staggered Push Up, chest, beginner,0, body-only 
+Standing Cable Chest Press, chest, beginner,8.2, cable 
+Straight Arm Dumbbell Pullover, chest, intermediate,8.7, dumbbell 
+Suspended Chest Fly, chest, intermediate,0, other 
+Suspended Push Up, chest, beginner,8.0, other 
+Suspended Push Up, chest, beginner,8.0, other 
+Svend Press, chest, beginner,8.9, other 
+Wide Grip Barbell Bench Press, chest, intermediate,8.9, barbell 
+Wide Grip Decline Barbell Bench Press, chest, intermediate,8.8, barbell 
+Wide Grip Decline Barbell Pullover, chest, intermediate,7.3, barbell 
+Bottoms Up Clean From The Hang Position, forearms, intermediate,8.2, kettlebells 
+Cable Wrist Curl, forearms, beginner,7.8, cable 
+Dumbbell Lying Pronation, forearms, intermediate,8.8, dumbbell 
+Dumbbell Lying Supination, forearms, intermediate,8.8, dumbbell 
+Farmer's Walk, forearms, intermediate,8.8, dumbbell 
+Finger Curls, forearms, beginner,9.2, barbell 
+Kneeling Forearm Stretch, forearms, beginner,5.3, none 
+Palms Down Dumbbell Wrist Curl Over A Bench, forearms, beginner,8.3, dumbbell 
+Palms Down Wrist Curl Over A Bench, forearms, beginner,9.5, barbell 
+Palms Up Barbell Wrist Curl Over A Bench, forearms, beginner,9.4, barbell 
+Palms Up Dumbbell Wrist Curl Over A Bench, forearms, beginner,8.5, dumbbell 
+Partner Farmer's Walk Competition, forearms, beginner,8.5, dumbbell 
+Partner Suitcase Carry Competition, forearms, intermediate,0, barbell 
+Plate Pinch, forearms, intermediate,8.2, other 
+Rickshaw Carry, forearms, intermediate,9.5, other 
+Seated Dumbbell Palms Down Wrist Curl, forearms, beginner,8.4, dumbbell 
+Seated Dumbbell Palms Up Wrist Curl, forearms, beginner,6.2, dumbbell 
+Seated One Arm Dumbbell Palms Down Wrist Curl, forearms, intermediate,8.3, dumbbell 
+Seated One Arm Dumbbell Palms Up Wrist Curl, forearms, beginner,8.9, dumbbell 
+Seated Palm Up Barbell Wrist Curl, forearms, beginner,8.7, barbell 
+Seated Palms Down Barbell Wrist Curl, forearms, beginner,9.0, barbell 
+Seated Two Arm Palms Up Low Pulley Wrist Curl, forearms, beginner,9.2, cable 
+Standing Olympic Plate Hand Squeeze, forearms, beginner,8.6, other 
+Standing Palms Up Barbell Behind The Back Wrist Curl, forearms, beginner,9.3, barbell 
+Suitcase Dumbbell Carry, forearms, beginner,0, dumbbell 
+Wrist Circles, forearms, beginner,2.6, body-only 
+Wrist Roller, forearms, beginner,9.1, other 
+Wrist Rotations with Straight Bar, forearms, beginner,9.4, barbell 
+Ankle On The Knee, glutes, beginner,4.7, none 
+Barbell Glute Bridge, glutes, intermediate,9.4, barbell 
+Barbell Hip Thrust, glutes, intermediate,9.0, barbell 
+Butt Lift (Bridge), glutes, intermediate,9.0, barbell 
+Downward Facing Balance, glutes, intermediate,4.0, exercise-ball 
+Flutter Kicks, glutes, beginner,8.3, body-only 
+Glute Bridge Hamstring Walkout, glutes, beginner,0, body-only 
+Glute Kickback, glutes, beginner,8.2, body-only 
+Hip Extension with Bands, glutes, beginner,7.0, bands 
+Hip Lift with Band, glutes, beginner,6.0, bands 
+Knee Across The Body, glutes, beginner,3.5, none 
+Kneeling Jump Squat, glutes, expert,7.4, barbell 
+Kneeling Squat, glutes, intermediate,8.9, barbell 
+Leg Lift, glutes, beginner,6.5, body-only 
+Lying Glute, glutes, expert,3.0, body-only 
+Neck Bridge Supine, glutes, beginner,0, body-only 
+One Knee To Chest, glutes, beginner,2.7, none 
+One Legged Cable Kickback, glutes, intermediate,8.8, cable 
+Physioball Hip Bridge, glutes, beginner,7.8, exercise-ball 
+Piriformis SMR, glutes, intermediate,6.8, foam-roll 
+Pull Through, glutes, beginner,7.1, cable 
+Seated Glute, glutes, expert,2.8, body-only 
+Seated Glute Stretch, glutes, beginner,0, body-only 
+Single Leg Glute Bridge , glutes, - 
+Step up with Knee Raise, glutes, beginner,8.7, body-only 
+Suspended Hip Thrust, glutes, beginner,0, other 
+9090 Hamstring, hamstrings, beginner,5.0, body-only 
+Alternating Hang Clean, hamstrings, intermediate,5.0, kettlebells 
+Alternating Leg Swing, hamstrings, beginner,0, body-only 
+Ball Leg Curl, hamstrings, beginner,9.0, exercise-ball 
+Band Good Morning, hamstrings, beginner,8.4, bands 
+Band Good Morning (Pull Through), hamstrings, beginner,8.4, bands 
+Barbell Deadlift, hamstrings, intermediate,9.3, barbell 
+Box Jump (Multiple Response), hamstrings, intermediate,9.3, barbell 
+Box Skip, hamstrings, beginner,0, other 
+Chair Leg Extended Stretch, hamstrings, beginner,2.4, other 
+Clean, hamstrings, intermediate,8.3, barbell 
+Clean Deadlift, hamstrings, beginner,9.5, barbell 
+Double Kettlebell Alternating Hang Clean, hamstrings, intermediate,0, kettlebells 
+Dumbbell Clean, hamstrings, intermediate,8.3, dumbbell 
+Floor Glute Ham Raise, hamstrings, intermediate,9.0, none 
+Front Box Jump, hamstrings, beginner,8.6, other 
+Front Leg Raises, hamstrings, beginner,9.0, body-only 
+Glute Ham Raise, hamstrings, intermediate,8.6, machine 
+Good Morning, hamstrings, intermediate,8.5, barbell 
+Good Morning off Pins, hamstrings, intermediate,0, barbell 
+Hamstring Stretch, hamstrings, beginner,5.6, none 
+Hamstring SMR, hamstrings, beginner,0, foam-roll 
+Hang Snatch, hamstrings, expert,9.5, barbell 
+Hang Snatch Below Knees, hamstrings, expert,0, barbell 
+Hanging Bar Good Morning, hamstrings, intermediate,0, barbell 
+Hurdle Hops, hamstrings, beginner,0, other 
+Inchworm, hamstrings, beginner,8.8, body-only 
+Intermediate Groin Stretch, hamstrings, intermediate,6.7, other 
+Kettlebell Dead Clean, hamstrings, intermediate,5.3, kettlebells 
+Kettlebell Hang Clean, hamstrings, intermediate,0, kettlebells 
+Kettlebell One Legged Deadlift, hamstrings, intermediate,8.7, kettlebells 
+Knee Tuck Jump, hamstrings, beginner,7.7, body-only 
+Leg Up Hamstring Stretch, hamstrings, beginner,7.8, none 
+Linear 3 Part Start Technique, hamstrings, beginner,0, none 
+Linear Acceleration Wall Drill, hamstrings, beginner,7.7, none 
+Lunge Pass Through, hamstrings, intermediate,9.4, kettlebells 
+Lying Hamstring, hamstrings, expert,0, other 
+Lying Leg Curls, hamstrings, beginner,9.0, machine 
+Moving Claw Series , hamstrings, - 
+Muscle Snatch, hamstrings, intermediate,0, barbell 
+Natural Glute Ham Raise, hamstrings, intermediate,9.1, body-only 
+One Arm Kettlebell Clean, hamstrings, intermediate,8.6, kettlebells 
+One Arm Kettlebell Swings, hamstrings, intermediate,7.5, kettlebells 
+One Arm Open Palm Kettlebell Clean , hamstrings, - 
+Open Palm Kettlebell Clean , hamstrings, - 
+Platform Hamstring Slides, hamstrings, beginner,0, other 
+Power Clean, hamstrings, intermediate,8.9, barbell 
+Power Clean from Blocks, hamstrings, intermediate,9.2, barbell 
+Power Snatch, hamstrings, expert,9.2, barbell 
+Power Stairs, hamstrings, intermediate,0, other 
+Prone Manual Hamstring, hamstrings, beginner,0, none 
+Prowler Sprint, hamstrings, beginner,7.4, other 
+Reverse Band Sumo Deadlift, hamstrings, expert,0, barbell 
+Reverse Hyperextension, hamstrings, intermediate,8.0, machine 
+Romanian Deadlift, hamstrings, intermediate,0, barbell 
+Romanian Deadlift from Deficit, hamstrings, intermediate,9.4, barbell 
+Romanian Deadlift With Dumbbells, hamstrings, intermediate,9.3, dumbbell 
+Romanian Deadlift with Kettlebell, hamstrings, intermediate,0, kettlebells 
+Runner's Stretch, hamstrings, intermediate,0, kettlebells 
+Seated Band Hamstring Curl, hamstrings, beginner,0, other 
+Seated Floor Hamstring Stretch, hamstrings, beginner,5.1, none 
+Seated Hamstring, hamstrings, expert,5.3, none 
+Seated Hamstring and Calf Stretch, hamstrings, intermediate,0, other 
+Seated Leg Curl, hamstrings, beginner,8.1, machine 
+Single Leg Deadlift, hamstrings, intermediate,9.0, kettlebells 
+Single Leg Balance , hamstrings, - 
+Smith Machine Hang Power Clean, hamstrings, intermediate,6.1, machine 
+Smith Machine Stiff Legged Deadlift, hamstrings, beginner,6.9, machine 
+Snatch Deadlift, hamstrings, intermediate,9.6, barbell 
+Snatch Pull, hamstrings, intermediate,0, barbell 
+Split Snatch, hamstrings, expert,0, barbell 
+Split Squats, hamstrings, intermediate,3.8, none 
+Standing Hamstring and Calf Stretch, hamstrings, beginner,6.7, other 
+Standing Leg Curl, hamstrings, beginner,7.5, machine 
+Standing Toe Touches, hamstrings, beginner,6.7, none 
+Stiff Legged Barbell Deadlift, hamstrings, intermediate,8.3, barbell 
+Stiff Legged Deadlift, hamstrings, intermediate,0, barbell 
+Stiff Legged Dumbbell Deadlift, hamstrings, beginner,8.8, dumbbell 
+Sumo Deadlift, hamstrings, intermediate,9.2, barbell 
+Sumo Deadlift with Bands, hamstrings, intermediate,0, barbell 
+Sumo Deadlift with Chains, hamstrings, intermediate,7.8, barbell 
+Sumo Squat Stretch, hamstrings, beginner,0, - 
+Suspended Leg Curl, hamstrings, intermediate,0, other 
+The Straddle, hamstrings, beginner,4.3, none 
+Upper Back Leg Grab, hamstrings, beginner,5.4, none 
+Vertical Swing, hamstrings, beginner,7.5, dumbbell 
+Wide Stance Stiff Legs, hamstrings, intermediate,8.5, barbell 
+World's Greatest Stretch, hamstrings, intermediate,8.5, barbell 
+Band Assisted Pull Up, lats, beginner,7.4, other 
+Bent Arm Barbell Pullover, lats, intermediate,8.0, barbell 
+Burpee Pull Up, lats, expert,0, other 
+Cable Incline Pushdown, lats, beginner,7.1, cable 
+Catch and Overhead Throw, lats, beginner,5.8, medicine-ball 
+Chair Lower Back Stretch, lats, beginner,3.3, none 
+Chin Up, lats, beginner,9.1, body-only 
+Close Grip Front Lat Pulldown, lats, beginner,8.9, cable 
+Dynamic Back Stretch, lats, beginner,4.5, none 
+Elevated Cable Rows, lats, intermediate,8.4, cable 
+Full Range Of Motion Lat Pulldown, lats, intermediate,8.0, cable 
+Gironda Sternum Chins, lats, intermediate,8.5, other 
+Kipping Muscle Up, lats, intermediate,7.2, other 
+Kneeling High Pulley Row, lats, beginner,8.4, cable 
+Kneeling Single Arm High Pulley Row, lats, beginner,7.9, cable 
+Latissimus Dorsi SMR, lats, beginner,5.0, foam-roll 
+Leverage Iso Row, lats, beginner,8.5, machine 
+London Bridges, lats, intermediate,7.8, other 
+Muscle Up, lats, intermediate,8.9, other 
+Negative Pull Up, lats, beginner,0, other 
+Neutral Grip Pull Ups, lats, intermediate,7.7, body-only 
+One Arm Against Wall, lats, beginner,5.8, none 
+One Arm Lat Pulldown, lats, beginner,7.1, cable 
+One Handed Hang, lats, beginner,3.2, other 
+Overhead Lat, lats, expert,1.0, other 
+Overhead Slam, lats, beginner,7.9, medicine-ball 
+Pullups, lats, beginner,9.2, body-only 
+Rockers (Pullover To Press) Straight Bar, lats, beginner,9.2, body-only 
+Rocky Pull UpsPulldowns, lats, intermediate,9.0, other 
+Rope Climb, lats, intermediate,8.5, other 
+Rope Straight Arm Pulldown, lats, beginner,8.5, cable 
+Shotgun Row, lats, beginner,9.1, cable 
+Side To Side Chins, lats, intermediate,8.4, other 
+Side Lying Floor Stretch, lats, beginner,1.0, none 
+Straight Arm Pulldown, lats, beginner,8.2, cable 
+Underhand Cable Pulldowns, lats, beginner,8.5, cable 
+V Bar Pulldown, lats, intermediate,8.9, cable 
+V Bar Pullup, lats, beginner,8.8, body-only 
+Weighted Pull Ups, lats, intermediate,9.5, other 
+Wide Grip Lat Pulldown, lats, beginner,8.6, cable 
+Wide Grip Pull Up, lats, intermediate,0, body-only 
+Wide Grip Pulldown Behind The Neck, lats, intermediate,7.0, cable 
+Wide Grip Rear Pull Up, lats, intermediate,8.6, body-only 
+Atlas Stone Trainer, lower-back, intermediate,6.4, other 
+Atlas Stones, lower-back, expert,9.3, other 
+Axle Deadlift, lower-back, intermediate,9.3, other 
+Cat Stretch, lower-back, beginner,5.0, none 
+Child's Pose, lower-back, beginner,5.0, none 
+Crossover Reverse Lunge, lower-back, intermediate,3.9, none 
+Dancer's Stretch, lower-back, intermediate,3.9, none 
+Deadlift with Bands, lower-back, expert,8.6, barbell 
+Deadlift with Chains, lower-back, expert,8.6, barbell 
+Deficit Deadlift, lower-back, intermediate,9.4, barbell 
+Hug A Ball, lower-back, beginner,5.3, exercise-ball 
+Hug Knees To Chest, lower-back, beginner,4.1, none 
+Hyperextensions (Back Extensions), lower-back, beginner,4.1, none 
+Hyperextensions With No Hyperextension Bench, lower-back, intermediate,9.0, body-only 
+Keg Load, lower-back, intermediate,0, other 
+Lower Back SMR, lower-back, beginner,4.8, foam-roll 
+Partner Flat Bench Back Extension, lower-back, intermediate,0, other 
+Partner Flat Bench Back Extension With Hold, lower-back, intermediate,0, other 
+Partner Supermans With Alternating High Five, lower-back, beginner,0, body-only 
+Pelvic Tilt Into Bridge, lower-back, intermediate,4.8, none 
+Pyramid, lower-back, beginner,1.0, exercise-ball 
+Rack Pull with Bands, lower-back, intermediate,8.5, barbell 
+Rack Pulls, lower-back, intermediate,8.5, barbell 
+Reverse Band Deadlift, lower-back, expert,0, barbell 
+Seated Back Extension, lower-back, beginner,8.0, machine 
+Seated Good Mornings, lower-back, intermediate,8.3, barbell 
+Standing Pelvic Tilt, lower-back, beginner,2.6, none 
+Stiff Leg Barbell Good Morning, lower-back, beginner,8.1, barbell 
+Superman, lower-back, beginner,8.6, body-only 
+Weighted Ball Hyperextension, lower-back, intermediate,8.3, exercise-ball 
+Alternating Kettlebell Row, middle-back, intermediate,8.0, kettlebells 
+Alternating Renegade Row, middle-back, expert,8.5, kettlebells 
+Bent Over Barbell Row, middle-back, beginner,8.7, barbell 
+Bent Over One Arm Long Bar Row, middle-back, beginner,8.9, barbell 
+Bent Over Two Arm Long Bar Row, middle-back, intermediate,9.0, barbell 
+Bent Over Two Dumbbell Row, middle-back, beginner,8.3, dumbbell 
+Bent Over Two Dumbbell Row With Palms In, middle-back, beginner,8.8, dumbbell 
+Bodyweight Mid Row, middle-back, intermediate,9.0, other 
+Dumbbell Incline Row, middle-back, beginner,8.7, dumbbell 
+Incline Bench Pull, middle-back, beginner,7.6, barbell 
+Inverted Row, middle-back, beginner,8.2, none 
+Inverted Row with Straps, middle-back, beginner,6.0, other 
+Leverage High Row, middle-back, beginner,7.8, machine 
+Lying Cambered Barbell Row, middle-back, beginner,6.2, barbell 
+Lying T Bar Row, middle-back, intermediate,8.0, machine 
+Man Maker, middle-back, intermediate,0, dumbbell 
+Middle Back Shrug, middle-back, intermediate,8.2, dumbbell 
+Middle Back Stretch, middle-back, beginner,3.8, none 
+Mixed Grip Chin, middle-back, expert,8.2, other 
+One Arm Chin Up, middle-back, expert,7.0, other 
+One Arm Dumbbell Row, middle-back, beginner,9.0, dumbbell 
+One Arm Kettlebell Row, middle-back, intermediate,8.1, kettlebells 
+One Arm Long Bar Row, middle-back, beginner,9.1, barbell 
+Partner Facing Feet Elevated Side Plank With Band Row, middle-back, expert,0, bands 
+Partner Facing Plank With Band Row, middle-back, intermediate,0, bands 
+Partner Facing Side Plank With Band Row, middle-back, intermediate,0, bands 
+Pendlay Rown, middle-back, intermediate,0, barbell 
+Plate Row, middle-back, beginner,0, barbell 
+Reverse Grip Bent Over Rows, middle-back, intermediate,9.2, barbell 
+Rhomboids SMR, middle-back, intermediate,6.0, foam-roll 
+Seated Cable Rows, middle-back, beginner,8.9, cable 
+Seated One arm Cable Pulley Rows, middle-back, intermediate,8.3, cable 
+Single Arm Landmine Row, middle-back, intermediate,0, barbell 
+Sled Row, middle-back, beginner,0, other 
+Smith Machine Bent Over Row, middle-back, beginner,8.1, machine 
+Spinal Stretch, middle-back, beginner,5.3, none 
+Straight Bar Bench Mid Rows, middle-back, beginner,0, barbell 
+Suspended Row, middle-back, beginner,7.6, other 
+T Bar Row, middle-back, intermediate,8.3, barbell 
+T Bar Row with Handle, middle-back, beginner,9.4, barbell 
+Two Arm Kettlebell Row, middle-back, intermediate,7.3, kettlebells 
+Upper Back Stretch, middle-back, beginner,4.2, none 
+Yates Row, middle-back, beginner,0, barbell 
+Yates Row Reverse Grip, middle-back, beginner,0, barbell 
+Chin To Chest Stretch, neck, beginner,3.7, none 
+Isometric Neck Exercise Front And Back, neck, beginner,6.4, body-only 
+Isometric Neck Exercise Sides, neck, beginner,7.3, body-only 
+Lying Face Down Plate Neck Resistance, neck, intermediate,9.3, other 
+Lying Face Up Plate Neck Resistance, neck, intermediate,8.3, other 
+Neck Bridge Prone, neck, intermediate,0, body-only 
+Neck SMR, neck, intermediate,2.8, other 
+Seated Head Harness Neck Resistance, neck, intermediate,7.6, other 
+Side Neck Stretch, neck, beginner,4.5, none 
+All Fours Quad Stretch, quadriceps, intermediate,4.9, body-only 
+Alternate Leg Diagonal Bound, quadriceps, beginner,6.9, none 
+Backward Drag, quadriceps, beginner,6.9, other 
+Barbell Full Squat, quadriceps, intermediate,9.4, barbell 
+Barbell Hack Squat, quadriceps, intermediate,8.4, barbell 
+Barbell Lunge, quadriceps, intermediate,8.9, barbell 
+Barbell Reverse Lunge, quadriceps, beginner,0, barbell 
+Barbell Side Split Squat, quadriceps, beginner,7.6, barbell 
+Barbell Squat, quadriceps, beginner,9.1, barbell 
+Barbell Squat To A Bench, quadriceps, expert,7.3, barbell 
+Barbell Squat To A Box, quadriceps, beginner,0, other 
+Barbell Step Ups, quadriceps, intermediate,8.7, barbell 
+Barbell Thruster, quadriceps, intermediate,0, barbell 
+Barbell Walking Lunge, quadriceps, beginner,9.5, barbell 
+Bear Crawl Sled Drags , quadriceps, - 
+Bench Jump, quadriceps, intermediate,7.5, body-only 
+Bench Sprint, quadriceps, beginner,6.7, other 
+Bicycling, quadriceps, beginner,8.9, other 
+Bicycling, Stationary, quadriceps, - 
+Bodyweight Reverse Lunge, quadriceps, beginner,0, body-only 
+Bodyweight Squat, quadriceps, beginner,8.9, body-only 
+Bodyweight Walking Lunge, quadriceps, beginner,8.0, none 
+Bosu Ball Squat, quadriceps, intermediate,0, exercise-ball 
+Box Squat, quadriceps, intermediate,9.2, barbell 
+Box Squat with Bands, quadriceps, expert,9.0, barbell 
+Box Squat with Chains, quadriceps, expert,0, barbell 
+Burpee, quadriceps, intermediate,9.2, body-only 
+Burpee Over Barbell, quadriceps, intermediate,0, barbell 
+Butt Kicks, quadriceps, beginner,8.2, body-only 
+Cable Deadlifts, quadriceps, beginner,7.7, cable 
+Cable Hip Adduction, quadriceps, beginner,8.2, cable 
+Car Deadlift, quadriceps, intermediate,0, other 
+Chair Squat, quadriceps, beginner,8.6, machine 
+Clean from Blocks, quadriceps, intermediate,9.5, barbell 
+Clean Pull , quadriceps, - 
+Conan's Wheel, quadriceps, - 
+Defensive Slide, quadriceps, beginner,0, body-only 
+Depth Jump Leap, quadriceps, beginner,0, other 
+Double Leg Butt Kick, quadriceps, beginner,9.0, body-only 
+Dumbbell Goblet Squat, quadriceps, beginner,8.6, dumbbell 
+Dumbbell Lunges, quadriceps, beginner,8.9, dumbbell 
+Dumbbell Overhead Squat , quadriceps, - 
+Dumbbell Rear Lunge, quadriceps, intermediate,9.0, dumbbell 
+Dumbbell Seated Box Jump, quadriceps, intermediate,8.3, dumbbell 
+Dumbbell Squat, quadriceps, beginner,9.0, dumbbell 
+Dumbbell Squat To A Bench, quadriceps, intermediate,7.0, dumbbell 
+Dumbbell Step Ups, quadriceps, intermediate,8.3, dumbbell 
+Elevated Back Lunge, quadriceps, intermediate,0, barbell 
+Elliptical Trainer, quadriceps, intermediate,8.8, machine 
+Fast Kick With Arm Circles, quadriceps, beginner,0, body-only 
+Fast Skipping, quadriceps, beginner,5.8, body-only 
+Feet Jack, quadriceps, beginner,0, body-only 
+Football Up Down, quadriceps, intermediate,0, body-only 
+Forward Band Walk, quadriceps, beginner,0, bands 
+Frankenstein Squat, quadriceps, intermediate,7.7, barbell 
+Freehand Jump Squat, quadriceps, intermediate,8.4, body-only 
+Frog Hops, quadriceps, intermediate,3.9, none 
+Front Barbell Squat, quadriceps, expert,9.0, barbell 
+Front Barbell Squat To A Bench, quadriceps, expert,5.3, barbell 
+Front Cone Hops (or hurdle hops), quadriceps, expert,5.3, barbell 
+Front Squat (Clean Grip), quadriceps, expert,5.3, barbell 
+Front Squats With Two Kettlebells, quadriceps, intermediate,9.1, kettlebells 
+Front To Back Squat With Belt, quadriceps, intermediate,0, barbell 
+Goblet Squat, quadriceps, beginner,9.1, kettlebells 
+Hack Squat, quadriceps, beginner,8.3, machine 
+Hang Clean, quadriceps, intermediate,9.3, barbell 
+Hang Clean Below the Knees, quadriceps, intermediate,8.5, barbell 
+Heaving Snatch Balance, quadriceps, intermediate,0, barbell 
+High Knee Jog, quadriceps, intermediate,0, body-only 
+Hip Flexion with Band, quadriceps, beginner,0, bands 
+Ice Skater, quadriceps, beginner,0, body-only 
+Intermediate Hip Flexor and Quad Stretch, quadriceps, intermediate,6.3, other 
+Iron Crosses (stretch), quadriceps, intermediate,6.3, other 
+Jefferson Squats, quadriceps, intermediate,8.0, barbell 
+Jerk Dip Squat, quadriceps, intermediate,8.0, barbell 
+Jog In Place, quadriceps, beginner,8.9, body-only 
+Jogging Treadmill, quadriceps, beginner,8.3, machine 
+Jump Lunge To Feet Jack, quadriceps, intermediate,0, body-only 
+Jump Squat, quadriceps, intermediate,7.7, body-only 
+Jumping Jacks, quadriceps, beginner,0, none 
+Kettlebell Curtsy Lunge, quadriceps, beginner,0, kettlebells 
+Kettlebell Pistol Squat, quadriceps, expert,9.1, kettlebells 
+Kettlebell Sumo Squat, quadriceps, intermediate,0, kettlebells 
+Kneeling Hip Flexor, quadriceps, beginner,5.1, none 
+Lateral Speed Step, quadriceps, beginner,0, body-only 
+Leg Extensions, quadriceps, beginner,8.6, machine 
+Leg Press, quadriceps, beginner,8.9, machine 
+Leverage Deadlift, quadriceps, beginner,0, machine 
+Linear Depth Jump, quadriceps, intermediate,0, other 
+Looking At Ceiling, quadriceps, beginner,4.3, none 
+Lunge Sprint, quadriceps, intermediate,0, machine 
+Lying Machine Squat, quadriceps, intermediate,8.4, machine 
+Lying Prone Quadriceps, quadriceps, expert,0, body-only 
+Machine Squat, quadriceps, intermediate,8.7, machine 
+Mountain Climbers, quadriceps, beginner,8.7, none 
+Narrow Stance Hack Squats, quadriceps, intermediate,8.8, machine 
+Narrow Stance Leg Press, quadriceps, intermediate,9.1, machine 
+Narrow Stance Squats, quadriceps, intermediate,8.9, barbell 
+Olympic Squat , quadriceps, - 
+On Your Side Quad Stretch, quadriceps, beginner,3.3, none 
+On Your Back Quad Stretch, quadriceps, beginner,3.3, other 
+One Half Locust, quadriceps, beginner,4.7, none 
+One Leg Barbell Squat, quadriceps, expert,8.6, barbell 
+One Arm Overhead Kettlebell Squats, quadriceps, expert,7.0, kettlebells 
+One Arm Side Deadlift, quadriceps, expert,8.5, barbell 
+Overhead Squat, quadriceps, expert,7.9, barbell 
+Pistol Squat, quadriceps, intermediate,7.2, body-only 
+Plie Dumbbell Squat, quadriceps, beginner,8.3, dumbbell 
+Power Jerk , quadriceps, - 
+Power Snatch from Blocks, quadriceps, intermediate,0, barbell 
+Quad Stretch, quadriceps, intermediate,4.5, other 
+Quadriceps SMR, quadriceps, intermediate,6.0, foam-roll 
+Quick Leap, quadriceps, beginner,0, other 
+Rear Leg Raises, quadriceps, beginner,3.1, body-only 
+Recumbent Bike, quadriceps, beginner,8.2, machine 
+Reverse Band Box Squat, quadriceps, intermediate,9.3, barbell 
+Reverse Band Power Squat, quadriceps, expert,0, barbell 
+Rickshaw Deadlift , quadriceps, - 
+Rocket Jump, quadriceps, beginner,8.0, body-only 
+Rope Jumping, quadriceps, intermediate,9.3, other 
+Rowing, Stationary, quadriceps, - 
+Running, Treadmill, quadriceps, - 
+Sandbag Load, quadriceps, beginner,0, other 
+Scissors Jump, quadriceps, beginner,8.7, body-only 
+Seated Leg Press, quadriceps, beginner,8.7, machine 
+Side Hop Sprint, quadriceps, beginner,0, other 
+Side Lunge, quadriceps, beginner,8.6, body-only 
+Side Standing Long Jump, quadriceps, beginner,0, none 
+Side to Side Box Shuffle, quadriceps, beginner,9.0, other 
+Single Arm Overhead Kettlebell Squat, quadriceps, expert,0, kettlebells 
+Single Leg Butt Kick, quadriceps, beginner,0, body-only 
+Single Leg Push off, quadriceps, beginner,9.3, other 
+Single Arm Dumbbell Overhead Squat, quadriceps, intermediate,0, dumbbell 
+Single Cone Sprint Drill, quadriceps, beginner,0, other 
+Single Leg Box Jump, quadriceps, expert,0, other 
+Single Leg Box Squat, quadriceps, intermediate,0, other 
+Single Leg High Box Squat, quadriceps, beginner,8.8, other 
+Single Leg Hop Progression, quadriceps, beginner,0, other 
+Single Leg Lateral Hop, quadriceps, beginner,0, other 
+Single Leg Leg Extension, quadriceps, beginner,8.6, machine 
+Single Leg Press, quadriceps, intermediate,0, machine 
+Single Leg Stride Jump, quadriceps, beginner,0, other 
+Sit Squats, quadriceps, beginner,5.1, none 
+Skating, quadriceps, intermediate,8.4, other 
+Sled Drag Harness, quadriceps, beginner,0, other 
+Sled Push, quadriceps, beginner,6.8, other 
+Slide Jump Shot, quadriceps, beginner,0, body-only 
+Slow Jog, quadriceps, beginner,0, body-only 
+Smith Machine Leg Press, quadriceps, intermediate,8.0, machine 
+Smith Machine Pistol Squat, quadriceps, intermediate,6.5, machine 
+Smith Machine Squat, quadriceps, beginner,8.7, machine 
+Smith Single Leg Split Squat, quadriceps, beginner,8.0, machine 
+Snatch, quadriceps, intermediate,9.3, barbell 
+Snatch Balance , quadriceps, - 
+Snatch from Blocks, quadriceps, expert,0, barbell 
+Speed Box Squat, quadriceps, intermediate,0, barbell 
+Speed Squats, quadriceps, expert,7.7, barbell 
+Split Clean, quadriceps, intermediate,0, barbell 
+Split Jerk, quadriceps, intermediate,8.3, barbell 
+Split Jump, quadriceps, beginner,8.0, body-only 
+Split Squat with Dumbbells, quadriceps, beginner,8.8, dumbbell 
+Split Squat With Kettlebells, quadriceps, intermediate,0, kettlebells 
+Square Hop, quadriceps, beginner,0, body-only 
+Squat Jerk, quadriceps, expert,0, barbell 
+Squat with Bands, quadriceps, intermediate,0, barbell 
+Squat with Chains, quadriceps, intermediate,9.0, barbell 
+Squat with Plate Movers, quadriceps, intermediate,0, barbell 
+Squats With Bands, quadriceps, beginner,5.8, bands 
+Stairmaster, quadriceps, intermediate,8.9, machine 
+Standing Elevated Quad Stretch, quadriceps, beginner,2.7, other 
+Standing Hip Flexors, quadriceps, beginner,4.4, none 
+Standing Long Jump, quadriceps, beginner,8.7, body-only 
+Star Jump, quadriceps, beginner,0, body-only 
+Step Mill, quadriceps, intermediate,9.1, machine 
+Stride Jump Crossover, quadriceps, beginner,0, other 
+Suspended Split Squat, quadriceps, intermediate,0, other 
+Tire Flip, quadriceps, intermediate,9.4, other 
+Trail RunningWalking, quadriceps, beginner,8.8, none 
+Trap Bar Deadlift, quadriceps, beginner,9.3, other 
+Vertical Mountain Climber, quadriceps, beginner,0, body-only 
+Walking High Knees, quadriceps, beginner,7.7, body-only 
+Walking Lunge With Overhead Weight, quadriceps, intermediate,0, other 
+Walking, Treadmill, quadriceps, - 
+Wall Ball Squat, quadriceps, intermediate,0, medicine-ball 
+Weighted Jump Squat , quadriceps, - 
+Weighted Sissy Squat, quadriceps, expert,8.4, barbell 
+Weighted Squat, quadriceps, intermediate,7.2, other 
+Wide Stance Barbell Squat, quadriceps, intermediate,8.5, barbell 
+Wide Stance Leg Press, quadriceps, beginner,0, machine 
+Yoke Walk, quadriceps, intermediate,0, other 
+Zercher Squats, quadriceps, expert,7.8, barbell 
+Alternating Cable Shoulder Press, shoulders, beginner,7.8, cable 
+Alternating Deltoid Raise, shoulders, beginner,9.1, dumbbell 
+Alternating Kettlebell Press, shoulders, intermediate,8.6, kettlebells 
+Anti Gravity Press, shoulders, beginner,8.4, barbell 
+Arm Circles, shoulders, beginner,5.0, none 
+Arnold Dumbbell Press, shoulders, intermediate,8.9, dumbbell 
+Axle Clean And Press, shoulders, expert,0, barbell 
+Back Flyes With Bands, shoulders, beginner,8.1, bands 
+Backward Medicine Ball Throw, shoulders, beginner,6.8, medicine-ball 
+Band Pull Apart, shoulders, beginner,7.8, bands 
+Barbell Front Raise, shoulders, beginner,0, barbell 
+Barbell Incline Shoulder Raise, shoulders, beginner,6.5, barbell 
+Barbell Rear Delt Row, shoulders, beginner,8.5, barbell 
+Barbell Shoulder Press, shoulders, intermediate,8.8, barbell 
+Battling Ropes, shoulders, beginner,8.8, other 
+Bent Over Dumbbell Rear Delt Raise With Head On Bench, shoulders, beginner,8.4, dumbbell 
+Bent Over Low Pulley Side Lateral, shoulders, beginner,8.9, cable 
+BradfordRocky Presses, shoulders, beginner,8.2, barbell 
+Cable Internal Rotation, shoulders, beginner,8.5, cable 
+Cable Rear Delt Fly, shoulders, beginner,8.2, cable 
+Cable Rope Rear Delt Rows, shoulders, beginner,8.4, cable 
+Cable Seated Lateral Raise, shoulders, beginner,6.6, cable 
+Cable Shoulder Press, shoulders, beginner,8.1, cable 
+Car Drivers, shoulders, beginner,8.9, barbell 
+Chair Upper Body Stretch, shoulders, beginner,4.1, other 
+Circus Bell, shoulders, expert,7.7, other 
+Clean and Jerk, shoulders, expert,9.3, barbell 
+Clean and Press, shoulders, intermediate,9.5, barbell 
+Crucifix, shoulders, beginner,6.0, other 
+Cuban Press, shoulders, intermediate,8.0, dumbbell 
+Double Kettlebell Jerk, shoulders, intermediate,7.0, kettlebells 
+Double Kettlebell Push Press, shoulders, intermediate,7.6, kettlebells 
+Double Kettlebell Snatch, shoulders, expert,0, kettlebells 
+Dumbbell Clean And Jerk, shoulders, expert,0, dumbbell 
+Dumbbell Incline Shoulder Raise, shoulders, beginner,7.4, dumbbell 
+Dumbbell Lying One Arm Rear Lateral Raise, shoulders, intermediate,9.3, dumbbell 
+Dumbbell Lying Rear Lateral Raise, shoulders, intermediate,8.7, dumbbell 
+Dumbbell One Arm Shoulder Press, shoulders, intermediate,8.8, dumbbell 
+Dumbbell One Arm Upright Row, shoulders, intermediate,7.6, dumbbell 
+Dumbbell Raise, shoulders, beginner,8.4, dumbbell 
+Dumbbell Rear Delt Row, shoulders, beginner,0, dumbbell 
+Dumbbell Scaption, shoulders, beginner,7.8, dumbbell 
+Dumbbell Shoulder Press, shoulders, intermediate,9.1, dumbbell 
+Dumbbell Squat To Shoulder Press, shoulders, intermediate,0, dumbbell 
+Elbow Circles, shoulders, beginner,4.9, none 
+External Rotation, shoulders, beginner,8.6, dumbbell 
+External Rotation with Band, shoulders, beginner,0, bands 
+External Rotation with Cable, shoulders, beginner,8.5, cable 
+Face Pull, shoulders, intermediate,8.5, cable 
+Front Cable Raise, shoulders, beginner,8.9, cable 
+Front Dumbbell Raise, shoulders, beginner,9.1, dumbbell 
+Front Incline Dumbbell Raise, shoulders, beginner,9.1, dumbbell 
+Front Plate Raise, shoulders, intermediate,8.8, other 
+Front Two Dumbbell Raise, shoulders, beginner,8.7, dumbbell 
+Half kneeling Dumbbell Shoulder Press, shoulders, intermediate,0, dumbbell 
+Hand Stand Push Up, shoulders, expert,0, body-only 
+Handstand Push Ups, shoulders, expert,8.5, body-only 
+Internal Rotation with Band, shoulders, beginner,0, bands 
+Iron Cross, shoulders, intermediate,8.3, dumbbell 
+Jerk Balance, shoulders, intermediate,0, barbell 
+Kettlebell Arnold Press , shoulders, - 
+Kettlebell Pirate Ships, shoulders, beginner,9.0, kettlebells 
+Kettlebell Seated Press, shoulders, intermediate,7.0, kettlebells 
+Kettlebell Seesaw Press, shoulders, intermediate,0, kettlebells 
+Kettlebell Thruster, shoulders, intermediate,8.6, kettlebells 
+Kettlebell Turkish Get Up (Lunge style), shoulders, intermediate,8.6, kettlebells 
+Kettlebell Turkish Get Up (Squat style), shoulders, intermediate,8.6, kettlebells 
+Kneeling Arm Drill , shoulders, - 
+Landmine Linear Jammer, shoulders, intermediate,8.7, barbell 
+Lateral Raise With Bands, shoulders, beginner,7.9, bands 
+Leverage Shoulder Press, shoulders, beginner,9.0, machine 
+Log Lift, shoulders, intermediate,0, other 
+Low Pulley Row To Neck, shoulders, beginner,8.3, cable 
+Lying One Arm Lateral Raise, shoulders, intermediate,7.9, dumbbell 
+Lying Rear Delt Raise, shoulders, intermediate,8.2, dumbbell 
+Machine Lateral Raise, shoulders, beginner,8.7, machine 
+Machine Shoulder (Military) Press, shoulders, beginner,8.7, machine 
+Medicine Ball Scoop Throw, shoulders, beginner,3.2, medicine-ball 
+One Arm Incline Lateral Raise, shoulders, beginner,8.7, dumbbell 
+One Arm Kettlebell Clean and Jerk , shoulders, - 
+One Arm Kettlebell Jerk, shoulders, intermediate,0, kettlebells 
+One Arm Kettlebell Military Press To The Side, shoulders, intermediate,0, kettlebells 
+One Arm Kettlebell Para Press  , shoulders, - 
+One Arm Kettlebell Push Press, shoulders, intermediate,9.3, kettlebells 
+One Arm Kettlebell Snatch, shoulders, expert,8.9, kettlebells 
+One Arm Kettlebell Split Jerk, shoulders, intermediate,0, kettlebells 
+One Arm Kettlebell Split Snatch , shoulders, - 
+One Arm Side Laterals, shoulders, beginner,9.2, dumbbell 
+Power Partials, shoulders, beginner,9.2, dumbbell 
+Punches, shoulders, beginner,0, body-only 
+Push Press, shoulders, expert,9.3, barbell 
+Push Press Behind the Neck, shoulders, intermediate,6.6, barbell 
+Rack Delivery, shoulders, intermediate,0, barbell 
+Return Push from Stance, shoulders, beginner,0, medicine-ball 
+Reverse Flyes, shoulders, beginner,9.2, dumbbell 
+Reverse Flyes With External Rotation, shoulders, intermediate,8.6, dumbbell 
+Reverse Machine Flyes, shoulders, beginner,8.3, machine 
+Round The World Shoulder Stretch, shoulders, beginner,5.3, other 
+Seated Barbell Military Press, shoulders, intermediate,9.2, barbell 
+Seated Bent Over Rear Delt Raise, shoulders, intermediate,8.6, dumbbell 
+Seated Cable Shoulder Press, shoulders, beginner,8.7, cable 
+Seated Dumbbell Press, shoulders, beginner,9.1, dumbbell 
+Seated Front Deltoid, shoulders, expert,4.5, body-only 
+Seated Side Lateral Raise, shoulders, beginner,8.3, dumbbell 
+See Saw Press (Alternating Side Press), shoulders, beginner,8.3, dumbbell 
+Shoulder Circles, shoulders, beginner,6.2, none 
+Shoulder Press With Bands, shoulders, beginner,7.6, bands 
+Shoulder Raise, shoulders, beginner,3.2, none 
+Shoulder Stretch, shoulders, beginner,5.6, none 
+Side Lateral Raise, shoulders, beginner,8.8, dumbbell 
+Side Laterals to Front Raise , shoulders, - 
+Side Wrist Pull, shoulders, beginner,8.4, none 
+Single Dumbbell Raise, shoulders, beginner,9.0, dumbbell 
+Single Arm Linear Jammer, shoulders, intermediate,9.6, barbell 
+Sled Overhead Backward Walk, shoulders, beginner,0, other 
+Sled Reverse Flye, shoulders, beginner,0, other 
+Smith Incline Shoulder Raise, shoulders, beginner,0, barbell 
+Smith Machine One Arm Upright Row, shoulders, beginner,7.0, machine 
+Smith Machine Overhead Shoulder Press, shoulders, beginner,8.8, machine 
+Standing Alternating Dumbbell Press , shoulders, - 
+Standing Barbell Press Behind Neck, shoulders, intermediate,7.9, barbell 
+Standing Bradford Press, shoulders, beginner,8.5, barbell 
+Standing Dumbbell Press , shoulders, - 
+Standing Dumbbell Straight Arm Front Delt Raise Above Head, shoulders, intermediate,9.2, dumbbell 
+Standing Front Barbell Raise Over Head, shoulders, intermediate,6.9, barbell 
+Standing Low Pulley Deltoid Raise, shoulders, beginner,8.5, cable 
+Standing Military Press, shoulders, beginner,9.3, barbell 
+Standing Palm In One Arm Dumbbell Press, shoulders, beginner,9.3, dumbbell 
+Standing Palms In Dumbbell Press, shoulders, intermediate,9.0, dumbbell 
+Standing Two Arm Overhead Throw, shoulders, beginner,0, medicine-ball 
+Straight Raises on Incline Bench, shoulders, beginner,9.3, barbell 
+Suspended Back Fly, shoulders, intermediate,0, other 
+Tall Muscle Snatch, shoulders, intermediate,0, barbell 
+Two Arm Kettlebell Clean, shoulders, intermediate,7.5, kettlebells 
+Two Arm Kettlebell Jerk, shoulders, intermediate,0, kettlebells 
+Two Arm Kettlebell Military Press, shoulders, intermediate,8.7, kettlebells 
+Upright Barbell Row, shoulders, beginner,8.6, barbell 
+Upward Stretch, shoulders, beginner,6.7, none 
+Wall Walk, shoulders, intermediate,0, body-only 
+Barbell Shrug, traps, beginner,8.4, barbell 
+Barbell Shrug Behind The Back, traps, beginner,8.2, barbell 
+Cable Shrugs, traps, beginner,8.0, cable 
+Calf Machine Shoulder Shrug, traps, beginner,8.7, machine 
+Clean Shrug, traps, beginner,6.8, barbell 
+Dumbbell Shrug, traps, beginner,8.7, dumbbell 
+Kettlebell Sumo High Pull, traps, intermediate,8.7, kettlebells 
+Leverage Shrug, traps, beginner,9.1, machine 
+Scapular Pull Up, traps, beginner,6.6, none 
+Smith Machine Behind the Back Shrug, traps, beginner,8.5, machine 
+Smith Machine Shrug, traps, beginner,9.2, machine 
+Smith Machine Upright Row, traps, beginner,7.3, machine 
+Snatch Shrug, traps, intermediate,6.2, barbell 
+Standing Dumbbell Upright Row, traps, beginner,8.7, dumbbell 
+Upright Cable Row, traps, intermediate,8.1, cable 
+Upright Row With Bands, traps, beginner,7.6, bands 
+Band Skull Crusher, triceps, beginner,8.2, bands 
+Bench Dips, triceps, beginner,8.7, body-only 
+Bench Press Powerlifting, triceps, intermediate,8.6, barbell 
+Bench Press with Chains, triceps, expert,8.2, barbell 
+Board Press, triceps, intermediate,7.7, barbell 
+Body Tricep Press, triceps, beginner,8.7, body-only 
+Body Up, triceps, intermediate,9.3, body-only 
+Cable Incline Triceps Extension, triceps, beginner,7.1, cable 
+Cable Lying Triceps Extension, triceps, beginner,8.6, cable 
+Cable One Arm Tricep Extension, triceps, beginner,8.9, cable 
+Cable Rope Overhead Triceps Extension, triceps, beginner,8.2, cable 
+Chain Handle Extension, triceps, intermediate,8.6, other 
+Close Grip Barbell Bench Press, triceps, beginner,9.2, barbell 
+Close Grip Dumbbell Press, triceps, beginner,7.9, dumbbell 
+Close Grip EZ Bar Press, triceps, beginner,9.2, e-z-curl-bar 
+Close Grip Push Up off of a Dumbbell, triceps, intermediate,7.3, body-only 
+Cobra Triceps Extension, triceps, intermediate,0, body-only 
+Decline Close Grip Bench To Skull Crusher, triceps, intermediate,8.9, barbell 
+Decline Dumbbell Triceps Extension, triceps, beginner,8.8, dumbbell 
+Decline EZ Bar Triceps Extension, triceps, beginner,9.5, barbell 
+Dip Machine, triceps, beginner,8.9, machine 
+Dips Triceps Version, triceps, beginner,9.4, body-only 
+Dumbbell Floor Press, triceps, intermediate,9.3, dumbbell 
+Dumbbell One Arm Triceps Extension, triceps, intermediate,8.4, dumbbell 
+Dumbbell Tricep Extension  Pronated Grip, triceps, beginner,6.0, dumbbell 
+EZ Bar Skullcrusher, triceps, beginner,9.0, e-z-curl-bar 
+Floor Press, triceps, intermediate,8.0, barbell 
+Floor Press with Chains, triceps, intermediate,0, barbell 
+Incline Barbell Triceps Extension, triceps, intermediate,8.9, barbell 
+Incline Push Up Close Grip, triceps, beginner,0, body-only 
+JM Press, triceps, beginner,9.0, barbell 
+JM Press, triceps, beginner,9.0, barbell 
+JM Press With Bands, triceps, intermediate,0, barbell 
+Kneeling Cable Triceps Extension, triceps, intermediate,9.0, cable 
+Low Cable Triceps Extension, triceps, beginner,8.2, cable 
+Lying Close Grip Barbell Triceps Extension Behind The Head, triceps, intermediate,8.7, barbell 
+Lying Close Grip Barbell Triceps Press To Chin, triceps, intermediate,8.5, e-z-curl-bar 
+Lying Dumbbell Tricep Extension, triceps, intermediate,8.4, dumbbell 
+Lying Triceps Press, triceps, intermediate,8.1, e-z-curl-bar 
+Machine Triceps Extension, triceps, beginner,7.4, machine 
+One Arm Floor Press, triceps, intermediate,7.3, barbell 
+One Arm Pronated Dumbbell Triceps Extension, triceps, beginner,8.3, dumbbell 
+One Arm Supinated Dumbbell Triceps Extension, triceps, beginner,8.4, dumbbell 
+Overhead Triceps, triceps, expert,3.3, body-only 
+Parallel Bar Dip, triceps, beginner,9.5, other 
+Pin Presses, triceps, intermediate,7.0, barbell 
+Push Ups Close Triceps Position, triceps, intermediate,9.0, body-only 
+Reverse Band Bench Press, triceps, intermediate,0, barbell 
+Reverse Grip Triceps Pushdown, triceps, beginner,9.0, cable 
+Reverse Triceps Bench Press, triceps, intermediate,8.3, barbell 
+Ring Dips, triceps, intermediate,9.0, other 
+Seated Bent Over One Arm Dumbbell Triceps Extension, triceps, beginner,7.5, dumbbell 
+Seated Bent Over Two Arm Dumbbell Triceps Extension, triceps, intermediate,8.8, dumbbell 
+Seated Triceps Press, triceps, beginner,9.0, dumbbell 
+Sled Overhead Triceps Extension, triceps, beginner,0, other 
+Smith Machine Close Grip Bench Press, triceps, beginner,8.8, machine 
+Speed Band Overhead Triceps, triceps, beginner,0, bands 
+Speed Band Pushdown, triceps, beginner,0, - 
+Standing Bent Over One Arm Dumbbell Triceps Extension, triceps, beginner,8.5, dumbbell 
+Standing Bent Over Two Arm Dumbbell Triceps Extension, triceps, beginner,9.2, dumbbell 
+Standing Dumbbell Triceps Extension, triceps, beginner,9.1, dumbbell 
+Standing Low Pulley One Arm Triceps Extension, triceps, intermediate,9.0, cable 
+Standing One Arm Dumbbell Triceps Extension, triceps, beginner,8.7, dumbbell 
+Standing Overhead Barbell Triceps Extension, triceps, beginner,9.0, barbell 
+Standing Towel Triceps Extension, triceps, beginner,6.5, body-only 
+Supine Chest Throw, triceps, beginner,8.2, medicine-ball 
+Suspended Triceps Press, triceps, intermediate,0, other 
+Tate Press, triceps, intermediate,8.1, dumbbell 
+Tricep Dumbbell Kickback, triceps, beginner,9.0, dumbbell 
+Tricep Side Stretch, triceps, beginner,5.5, none 
+Triceps Overhead Extension with Rope, triceps, beginner,8.9, cable 
+Triceps Plank Extension, triceps, beginner,0, dumbbell 
+Triceps Pushdown, triceps, beginner,8.6, cable 
+Triceps Pushdown Rope Attachment, triceps, beginner,9.0, cable 
+Triceps Pushdown V Bar Attachment, triceps, beginner,9.0, cable 
+Triceps Stretch, triceps, beginner,4.8, none 
+Weighted Bench Dip, triceps, intermediate,9.1, other 
