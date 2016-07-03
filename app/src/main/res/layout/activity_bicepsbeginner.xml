@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView android:id="@+id/inclinehammercurls" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Incline Hammer Curls"/>
+    <TextView android:id="@+id/spidercurl" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Spider Curl"/>
+    <TextView android:id="@+id/widegripstandingbarbellcurl" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Wide Grip Standing Barbell Curl"/>
+    <TextView android:id="@+id/Ezbarcurl" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ez-Bar Curl"/>
+    <TextView android:id="@+id/hammercurls" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hammer Curls"/>
+    <TextView android:id="@+id/concentrationcurls" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Concentration Curls"/>
+    <TextView android:id="@+id/flexorinclinedumbellcurls" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Flexor Incline Dumbell Curls"/>
+    <TextView android:id="@+id/Machinebicepcurls" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Machine Bicep Curl"/>
+    <TextView android:id="@+id/closegripezbarcurl" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Close-Grip Ez Bar Curl"/>
+    <TextView android:id="@+id/crossbodyhammercurl" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cross Body Hammer Curl"/>
+
+</LinearLayout>

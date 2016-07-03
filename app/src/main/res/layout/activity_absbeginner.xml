@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView android:id="@+id/landmine" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Landmine 180's"/>
+    <TextView android:id="@+id/bottomsup" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bottoms up"/>
+    <TextView android:id="@+id/onearm" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="One-Arm High-Pulley Cable Side Bends"/>
+    <TextView android:id="@+id/spider" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Spider Crawl"/>
+    <TextView android:id="@+id/plank" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Plank"/>
+    <TextView android:id="@+id/spellcaster" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Spell Caster"/>
+    <TextView android:id="@+id/standingcablelift" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Standing Cable Lift"/>
+    <TextView android:id="@+id/crossbodycrunch" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cross Body Crunch"/>
+    <TextView android:id="@+id/declinereversecrunch" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Decline Reverse Crunch"/>
+    <TextView android:id="@+id/elbowtoknee" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Elbow to Knee"/>
+
+</LinearLayout>

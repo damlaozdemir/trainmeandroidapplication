@@ -1,0 +1,122 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:padding="10dip"
+    android:shrinkColumns="*"  android:stretchColumns="*" >
+
+    <ImageView
+        android:layout_width="175dp"
+        android:layout_height="190dp"
+        android:id="@+id/apple"
+        android:background="@drawable/applepie"
+        android:layout_above="@+id/foodnamevalue"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="26dp" />
+
+    <TextView android:id="@+id/foodname" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:padding="10dip"
+        android:textStyle="bold"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Food name:"
+        android:layout_alignTop="@+id/foodnamevalue"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <TextView android:id="@+id/foodnamevalue" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:padding="10dip"
+
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/protein"
+        android:layout_toEndOf="@+id/protein"></TextView>
+
+
+    <TextView android:id="@+id/carbohydrate" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:padding="10dip"
+        android:textStyle="bold"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Carbohydrate(g):"
+        android:layout_below="@+id/fat"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView android:id="@+id/carbohydratevalue" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:padding="10dip"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_alignTop="@+id/carbohydrate"
+        android:layout_toRightOf="@+id/carbohydrate"
+        android:layout_toEndOf="@+id/carbohydrate" />
+
+    <TextView android:id="@+id/fat" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:padding="10dip"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textStyle="bold"
+        android:text="Fat(g):"
+        android:layout_below="@+id/protein"
+        android:layout_alignLeft="@+id/protein"
+        android:layout_alignStart="@+id/protein" />
+
+    <TextView android:id="@+id/fatvalue" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:padding="10dip"
+        android:layout_below="@+id/protein"
+        android:layout_toRightOf="@+id/fat"
+        android:layout_toEndOf="@+id/fat" />
+
+    <TextView android:id="@+id/protein" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:padding="10dip"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textStyle="bold"
+        android:text="Protein(g):"
+        android:layout_below="@+id/calorie"
+
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView android:id="@+id/calorie" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:padding="10dip"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Calorie(kcal):"
+        android:textStyle="bold"
+        android:layout_below="@+id/foodname"
+        android:layout_alignLeft="@+id/foodname"
+        android:layout_alignStart="@+id/foodname" />
+
+    <TextView android:id="@+id/proteinvalue" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:padding="10dip"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_below="@+id/calorie"
+
+        android:layout_toRightOf="@+id/protein"
+        />
+
+    <TextView android:id="@+id/calorievalue" android:layout_width="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_height="wrap_content"
+
+        android:padding="10dip"
+
+        android:layout_below="@+id/foodnamevalue"
+        android:layout_toRightOf="@+id/calorie"
+       />
+
+</RelativeLayout>

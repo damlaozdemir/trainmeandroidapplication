@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView android:id="@+id/weightedsuitcasecrunch" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Weighted Suitcase Crunch"/>
+    <TextView android:id="@+id/barbellabrollout" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Barbell Ab Roller"/>
+    <TextView android:id="@+id/abroller" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ab Roller"/>
+    <TextView android:id="@+id/declinecrunch" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Decline Crunch"/>
+    <TextView android:id="@+id/gorillachin" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gorilla Chin/Crunch"/>
+    <TextView android:id="@+id/obliquecablecrunch" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Oblique Cable Crunch"/>
+    <TextView android:id="@+id/platetwist" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Plate Twist"/>
+    <TextView android:id="@+id/russiantwist" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RussianTwist"/>
+    <TextView android:id="@+id/advancedkettlebellwindmill" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Advanced Kettlebell Windmill"/>
+    <TextView android:id="@+id/abcrunchmachine" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ab Crunch Machine"/>
+
+
+
+</LinearLayout>

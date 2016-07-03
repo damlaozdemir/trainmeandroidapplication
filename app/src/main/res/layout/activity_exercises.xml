@@ -1,0 +1,136 @@
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:shrinkColumns="*"  android:stretchColumns="*" android:background="#ffffff">
+
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.20"
+        android:layout_margin="1dp">
+        <TextView android:id="@+id/abs" android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18dp"
+            android:padding="18dip" android:background="#b0b0b0"
+            android:text="Abs"/>
+        <TextView android:id="@+id/biceps" android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18dp"
+            android:padding="18dip" android:background="#b0b0b0"
+            android:text="Biceps"/>
+    </TableRow>
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.20">
+        <TextView android:id="@+id/calves" android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="18dip" android:background="#b0b0b0"
+            android:textSize="18dp"
+            android:text="Calves"/>
+
+        <TextView android:id="@+id/chest" android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18dp"
+            android:padding="18dip" android:background="#b0b0b0"
+            android:text="Chest"/>
+    </TableRow>
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.20">
+
+        <TextView android:id="@+id/forearms" android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18dp"
+            android:padding="18dip" android:background="#b0b0b0"
+            android:text="Forearms"/>
+
+        <TextView android:id="@+id/glutes" android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18dp"
+            android:padding="18dip" android:background="#b0b0b0"
+            android:text="Glutes"/>
+    </TableRow>
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.20">
+
+        <TextView android:id="@+id/hamstrings" android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18dp"
+            android:padding="18dip" android:background="#b0b0b0"
+            android:text="Hamstrings"/>
+
+        <TextView android:id="@+id/lats" android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18dp"
+            android:padding="18dip" android:background="#b0b0b0"
+            android:text="Lats"/>
+    </TableRow>
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.20">
+
+        <TextView android:id="@+id/lowerback" android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18dp"
+            android:padding="18dip" android:background="#b0b0b0"
+            android:text="Lower Back"/>
+
+        <TextView android:id="@+id/middleback" android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18dp"
+            android:padding="18dip" android:background="#b0b0b0"
+            android:text="Middle Back"/>
+    </TableRow>
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.20">
+
+        <TextView android:id="@+id/shoulders" android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18dp"
+            android:padding="18dip" android:background="#b0b0b0"
+            android:text="Shoulders"/>
+
+        <TextView android:id="@+id/traps" android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18dp"
+            android:padding="18dip" android:background="#b0b0b0"
+            android:text="Traps"/>
+    </TableRow>
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.20">
+
+        <TextView android:id="@+id/triceps" android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18dp"
+            android:padding="18dip" android:background="#b0b0b0"
+            android:text="Triceps"/>
+
+        <TextView android:id="@+id/quads" android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18dp"
+            android:padding="18dip" android:background="#b0b0b0"
+            android:text="Quads"/>
+
+
+    </TableRow>
+
+
+</TableLayout>

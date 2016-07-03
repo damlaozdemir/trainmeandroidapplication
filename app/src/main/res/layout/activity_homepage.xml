@@ -1,0 +1,98 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="info.androidhive.materialtabs.fragments.OneFragment"
+    android:layout_margin="10dp">
+
+    <ImageButton
+        android:layout_width="175dp"
+        android:layout_height="190dp"
+        android:id="@+id/beCoach"
+        android:background="@drawable/coach"
+
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+    <ImageButton
+        android:layout_width="175dp"
+        android:layout_height="190dp"
+        android:id="@+id/survey"
+        android:background="@drawable/survey"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <ImageButton
+        android:layout_width="175dp"
+        android:layout_height="190dp"
+        android:id="@+id/exercises"
+        android:background="@drawable/exercises"
+
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <ImageButton
+        android:layout_width="175dp"
+        android:layout_height="190dp"
+        android:id="@+id/diet" android:background="@drawable/foods"
+
+        android:layout_below="@+id/exercises"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:text="Be My Coach"
+        android:id="@+id/textView"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:background="#E0E0E0"
+        android:layout_alignBottom="@+id/beCoach" android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"/>
+
+    <TextView
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:text="Exercises"
+        android:id="@+id/textView3"
+        android:background="#E0E0E0"
+        android:textSize="20dp" android:textStyle="bold"
+        android:layout_alignBottom="@+id/exercises"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+
+    <TextView
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:text="Diet"
+        android:id="@+id/textView5"
+        android:background="#E0E0E0"
+        android:textSize="20dp" android:textStyle="bold"
+        android:layout_below="@+id/diet"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+    <TextView
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:text="Survey"
+        android:id="@+id/textView6"
+        android:background="#E0E0E0"
+        android:textSize="20dp" android:textStyle="bold"
+        android:layout_below="@+id/diet"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Logout"
+        android:id="@+id/logout"
+        android:layout_below="@+id/textView5"
+        android:layout_centerHorizontal="true" />
+
+
+</RelativeLayout>
